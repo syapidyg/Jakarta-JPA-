@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bookStore" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bookStore" options="-endorseddirs &quot;C:\Users\yvesg\Documents\Prosit X4\Dominante Genie Logiciel\Java EE JPA\Workshop\P5 Corbeille ressources-20240419\appli\bookStore\target/endorsed&quot;" />
+    </option>
+  </component>
+</project>
