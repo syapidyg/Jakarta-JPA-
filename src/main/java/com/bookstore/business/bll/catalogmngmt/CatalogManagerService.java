@@ -1,7 +1,3 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 
 package com.bookstore.business.bll.catalogmngmt;
 
@@ -15,7 +11,7 @@ import jakarta.ejb.Local;
 
 /**
  *
- * @author asbriglio
+ * @author syapiDYG
  */
 @Local
 public interface CatalogManagerService {

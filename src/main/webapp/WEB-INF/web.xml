@@ -4,9 +4,7 @@
         <param-name>jakarta.faces.PROJECT_STAGE</param-name>
         <param-value>Development</param-value>
     </context-param>
-    <!-- pour éviter que les commentaires de types XML soient interprétés par le moteur JSF et donc intégrés à la mise en forme.
-    cf. exemple du panelGrid dans orderValidation.xhtml où le commentaire est interpété comme un élément de colonne si on ne
-    spécifie pas la non interprétation-->
+
     <context-param>
         <param-name>jakarta.faces.FACELETS_SKIP_COMMENTS</param-name>
         <param-value>true</param-value>

@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package com.bookstore.model;
 
 import com.bookstore.business.bll.catalogmngmt.BookManagerServiceBean;
@@ -20,7 +16,7 @@ import jakarta.inject.Inject;
 
 /**
  *
- * @author asbriglio
+ * @author SyapiDYG
  */
 @Named
 @SessionScoped
